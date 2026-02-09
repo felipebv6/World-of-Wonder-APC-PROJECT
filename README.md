@@ -1,8 +1,8 @@
-Words of Wonder - Terminal Game 📝
+Words of Wonder - Terminal Game 
 
 Este é um jogo de palavras cruzadas desenvolvido inteiramente em C como projeto final para a disciplina de Algoritmos e Programação de Computadores (APC) no curso de Ciência da Computação. O objetivo é desafiar o jogador a encontrar palavras ocultas a partir de um conjunto de letras embaralhadas.
 
-🕹️ O Jogo
+- O Jogo
 
 O Words of Wonder apresenta uma interface via terminal onde o jogador:
 
@@ -14,7 +14,7 @@ Ganha pontos por acertos (+100) e perde por erros ou palavras repetidas (-10).
 
 Possui um sistema de Ranking persistente para competir com outros jogadores.
 
-🛠️ Funcionalidades
+- Funcionalidades
 
 Sistema de Fases: As palavras e letras são carregadas dinamicamente de um arquivo de texto (entrada.txt).
 
@@ -24,7 +24,7 @@ Ordenação de Dados: Utiliza o algoritmo Bubble Sort para exibir os melhores jo
 
 Multiplataforma: Macros de pré-processamento para garantir que o comando de "limpar tela" funcione tanto em Windows quanto em Linux.
 
-🎓 Importância para o Aprendizado (APC)
+- Importância para o Aprendizado (APC)
 
 Desenvolver este projeto foi fundamental para consolidar conceitos abstratos vistos em sala de aula através da prática direta:
 
@@ -36,7 +36,7 @@ Lógica de Vetores e Matrizes: A exibição visual das letras exigiu uma manipul
 
 Algoritmos de Ordenação: Implementar o Bubble Sort manualmente para o ranking ajudou a entender como a ordenação funciona "por baixo do capô" na computação.
 
-🚀 Como Executar
+- Como Executar
 
 Certifique-se de ter um compilador C (como o GCC) instalado.
 
