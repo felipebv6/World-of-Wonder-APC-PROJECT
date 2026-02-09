@@ -45,9 +45,7 @@ Clone o repositório.
 Certifique-se de que o arquivo entrada.txt esteja no mesmo diretório.
 
 Compile o código.
+gcc PROJETOAPC.C -o wow_game
 
 Execute o programa.
-
-OU
-
-utilize o executável no mesmo diretorio do arquivo de entrada.
+./wow_game
