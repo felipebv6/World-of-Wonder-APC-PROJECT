@@ -1,5 +1,3 @@
-//matricula: 252009143
-//nome: felipe brasil vieira
 
 #include <stdio.h>
 #include <string.h>
@@ -395,4 +393,5 @@ int main(){
         return 0;
     }
     return 0;
+
 }
