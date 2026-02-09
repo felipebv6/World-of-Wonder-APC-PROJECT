@@ -1,4 +1,5 @@
 Words of Wonder - Terminal Game 📝
+
 Este é um jogo de palavras cruzadas desenvolvido inteiramente em C como projeto final para a disciplina de Algoritmos e Programação de Computadores (APC) no curso de Ciência da Computação. O objetivo é desafiar o jogador a encontrar palavras ocultas a partir de um conjunto de letras embaralhadas.
 
 🕹️ O Jogo
